@@ -11,3 +11,9 @@ and Cyber Security!
 
 Moreover, I'm a social maniac, active on discord. Probably building something interesting, or 
 chatting with my friends!
+
+### Contact me!
+---
+You can contact me in a varaity of ways. Being:<br>
+⁕ Discord: Vatxr#3801 <br>
+⁕ Email: c.vatxr@gmail.com
