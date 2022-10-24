@@ -1,19 +1,17 @@
 <h1 align="left">
     Hey there 
-    I'm Vats! 
+    I'm YZM! 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
 
 ### About me!
 ---
-Hey there! I am Vatxr [aka Renic4l], A 15 y/o developer. Obsessed with Python. Currently I'm Learning JAVA, Networking 
-and Cyber Security!
+I am a full-stack python & javascript developer! I also am experienced with HTML & CSS but I am spending most of my time on learning Java & Lua (Mainly RBLX Game Dev)!
 
-Moreover, I'm a social maniac, active on discord. Probably building something interesting, or 
-chatting with my friends!
+On the other hand, I spend a lot of my time learning the Web3 space and also being active on social platforms like discord! 
 
 ### Contact me!
 ---
 You can contact me in a varaity of ways. Being:<br>
-⁕ Discord: Vatxr#3801 <br>
-⁕ Email: c.vatxr@gmail.com
+⁕ Discord: yzm#3801 <br>
+⁕ Website: https://y4mn.ml/
