@@ -19,4 +19,4 @@ discord: yzm#3801
 
 ![Profile views](https://gpvc.arturio.dev/y4mn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sluggish&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y4mn&theme=tokyonight)
