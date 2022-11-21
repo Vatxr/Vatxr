@@ -1,17 +1,22 @@
-<h1 align="left">
-    Hey there 
-    I'm YZM! 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-</h1>
+### Hello there 👋
+I'm YZM, A 16 years old fullstack front and back end developer!
 
-### About me!
+### About me
 ---
-I am a full-stack python & javascript developer! I also am experienced with HTML & CSS but I am spending most of my time on learning Java & Lua (Mainly RBLX Game Dev)!
+A full-stack python & javascript programmer, also experienced with HTML & CSS. Currently learning Java & Roblox Scripting (LUA)!
+Additionally, I spend a lot of my time learning the Web3 space and being active on discord, instagram, you name it!
 
-On the other hand, I spend a lot of my time learning the Web3 space and also being active on social platforms like discord! 
-
-### Contact me!
+### Contact me
 ---
-You can contact me in a varaity of ways. Being:<br>
-⁕ Discord: yzm#3801 <br>
-⁕ Website: https://y4mn.ml/
+you can contact me via instagram & discord!
+
+instagram: [@y4mn_z](https://instagram.com/y4mn_z)
+
+Website: [y4mn.ml/](https://y4mn.netlify.app/)
+
+discord: yzm#3801
+
+
+![Profile views](https://gpvc.arturio.dev/y4mn)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sluggish&theme=tokyonight)
