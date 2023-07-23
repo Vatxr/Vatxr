@@ -1,7 +1,5 @@
 ### Hello there 👋
-I'm YZM, A 16 years old fullstack front and back end developer!
-
-![Profile views](https://gpvc.arturio.dev/y4mn)
+I'm YMN, A 16 years old fullstack front and back end developer!
 
 ### About me
 A full-stack python & javascript programmer, also experienced with HTML & CSS. Currently learning Java & Roblox Scripting (LUA)!
@@ -14,5 +12,5 @@ instagram: [@y4mn_z](https://instagram.com/y4mn_z)
 
 Website: [y4mn.ml/](https://y4mn.netlify.app/)
 
-discord: yzm#3801
+discord: notymn
 
