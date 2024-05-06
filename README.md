@@ -1,4 +1,3 @@
-### Hello there 👋
 I'm YMN, A 16 years old fullstack front and back end developer!
 
 ### About me
@@ -8,9 +7,9 @@ Additionally, I spend a lot of my time learning the Web3 space and being active 
 ### Contact me
 you can contact me via instagram & discord!
 
-instagram: [@y4mn_z](https://instagram.com/y4mn_z)
+instagram: [@notymn_](https://instagram.com/notymn_)
 
-Website: [y4mn.ml/](https://y4mn.netlify.app/)
+Website: [y4mn.com/](https://y4mn.netlify.app/)
 
 discord: notymn
 
